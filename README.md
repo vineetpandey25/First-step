@@ -1,3 +1,3 @@
 # First-step
-this is my first git repository
-author- vineet pandey
+This is my first git repository.
+Author- vineet pandey
